@@ -11,11 +11,17 @@ With the help of this plugin admin can select multiple assets and approve them i
 
 ## How to use
 1. Download and install Approve Assets plugin on your server. Make sure plugin is properly deployed on server.
+
 2. Create Blogs, Web Content, Wiki Pages, Message Boards and Dynamic Data Lists.
+
 3. Go to Web Content ( Site &rarr; Content &rarr; Web Content).
+
 4. Upon selecting multiple Web Content, you will find Approve icon on top right corner of page.
+
 ![01_article](https://user-images.githubusercontent.com/24852574/64315336-5dc6cb80-cfcf-11e9-84e2-ef2b5a495c42.png)
+
 ![02_aricle_approved](https://user-images.githubusercontent.com/24852574/64315335-5dc6cb80-cfcf-11e9-98ef-561e270b3823.png)
+
 5. You will find similar behavior while Approve to Wiki Pages, Blogs, Message Boards and Dynamic Data Lists.
 
 ## Support
