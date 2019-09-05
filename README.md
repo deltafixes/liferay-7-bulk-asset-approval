@@ -1,7 +1,8 @@
-# Liferay 7 Bulk Asset Approval
-Currently if admin wants to approve multiple Assets then he/she has to go over each and every assets to approve them individually.
+# Liferay 7 Publish Multiple assets
 
-With the help of this plugin admin can select multiple assets and approve them in one go. After installing plugin this feature will be available to Web Content, Wiki Pages, Blogs, Message Boards and Dynamic Data Lists. 
+Currently, if admin wants to Publish multiple Asset (having status as Draft, Expire, Schedule etc..) then he/she has to go over each assets to Publish them individually.
+
+With the help of this plugin admin can select multiple assets and Publish them in one go. After installing plugin this feature will be available to Web Content, Wiki Pages, Blogs, Message Boards and Dynamic Data Lists.
 
 ## Environment
 1. Liferay 7.0 DXP
