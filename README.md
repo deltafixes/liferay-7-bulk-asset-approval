@@ -1,4 +1,4 @@
-# liferay-7-bulk-asset-approval
+# Liferay 7 Bulk Asset Approval
 With current feature available with Liferay, if admin wants to approve multiple Assets then he/she has to go over each and every assets to approve them.
 
 With the help of this plugin admin can select multiple assets and approve them in one go. After installing plugin this feature will be available to Web Content, Wiki Pages, Blogs, Message Boards and Dynamic Data Lists. 
