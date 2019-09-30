@@ -11,7 +11,7 @@ With the help of this plugin admin can select multiple assets and Publish them i
 4. Liferay 7.1 CE-GA2 +
 
 ## How to use
-1. Download and install Publish multiple Assets plugin on your server. Make sure plugin is properly deployed on server.
+1. [Download](https://web.liferay.com/marketplace/-/mp/application/169546949) and install Publish multiple Assets plugin on your server. Make sure plugin is properly deployed on server.
 
 2. Create Blogs, Web Content, Wiki Pages, Message Boards and Dynamic Data Lists.
 
